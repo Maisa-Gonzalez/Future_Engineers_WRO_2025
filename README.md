@@ -1,7 +1,7 @@
 # WRO_Future_Engineers_2025
 This repository showcases the development of an autonomous vehicle created by a student team from Guatemala for the 2025 WRO Future Engineers challenge. The project combines design, programming, and innovation as part of the team's preparation for the event.
 ## Content
-* `The challenge`
+* `Future Engineers Challenge`
 * `t-photos` 
 * `v-photos` 
 * `video` 
@@ -10,7 +10,7 @@ This repository showcases the development of an autonomous vehicle created by a 
 * `models` 
 * `other`
   
-## Overview of the WRO 2025 Future Engineers Challenge <a class="anchor" id="challenge"></a>
+## Future Engineers Challenge <a class="anchor" id="challenge"></a>
 
 In the 2025 edition of the World Robot Olympiad, the Future Engineers category centers on the development of an autonomous vehicle capable of adapting to an ever-changing racetrack environment. Competitors must engineer a robot that can complete multiple laps while skillfully avoiding obstacles that are repositioned each round. A significant aspect of the challenge is the requirement for the robot to execute a parallel parking task with high accuracy, reflecting real-world vehicle maneuvers.
 
