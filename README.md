@@ -11,7 +11,9 @@ This repository showcases the development of an autonomous vehicle created by a 
 * `other`
   
 ## Future Engineers Challenge <a class="anchor" id="challenge"></a>
-
+<p align="center">
+  <img src="other/Future_Engineers.png" alt="Future Engineers" width="400"/>
+</p>
 In the 2025 edition of the World Robot Olympiad, the Future Engineers category centers on the development of an autonomous vehicle capable of adapting to an ever-changing racetrack environment. Competitors must engineer a robot that can complete multiple laps while skillfully avoiding obstacles that are repositioned each round. A significant aspect of the challenge is the requirement for the robot to execute a parallel parking task with high accuracy, reflecting real-world vehicle maneuvers.
 
 Success in this competition demands the integration of sophisticated robotics disciplines, including but not limited to sensor data processing, environment perception, and precise motion planning. Participants are encouraged to focus on crafting innovative solutions that demonstrate both technical excellence and dependability under varying conditions.
