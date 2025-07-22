@@ -2,13 +2,13 @@
 This repository showcases the development of an autonomous vehicle created by a student team from Guatemala for the 2025 WRO Future Engineers challenge. The project combines design, programming, and innovation as part of the team's preparation for the event.
 ## Content
 * `Future Engineers Challenge`
-* `t-photos` 
-* `v-photos` 
-* `video` 
-* `schemes` 
-* `src` 
-* `models` 
-* `other`
+* `T-Photos` 
+* `V-Photos` 
+* `Video` 
+* `Schemes` 
+* `Src` 
+* `Models` 
+* `Other`
   
 ## Future Engineers Challenge <a class="anchor" id="challenge"></a>
 <p align="center">
@@ -24,4 +24,4 @@ Judges evaluate each entry by assessing how effectively the robot performs durin
 
 For more detailed information, please visit the official [WRO website](https://wro-association.org/).
 
-## t-photos
+## T-Photos
