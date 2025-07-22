@@ -22,4 +22,4 @@ Moreover, teams are expected to maintain detailed documentation showcasing their
 
 Judges evaluate each entry by assessing how effectively the robot performs during the trials, the thoroughness and professionalism of the documentation, and the creativity and robustness of the overall approach. The challenge aims to inspire young engineers to apply theoretical knowledge in practical scenarios, emphasizing teamwork, problem-solving, and continuous innovation.
 
-For more detailed information, please visit the official WRO website.
+For more detailed information, please visit the official [WRO website](https://wro-association.org/).
